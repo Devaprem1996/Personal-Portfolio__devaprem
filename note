@@ -1,0 +1,20 @@
+<!-- project 2 -->
+<div class="project_card text-center " style=" display:flex; margin-bottom: 60px;">
+    <div class="images_data col-4" style="border: 2px solid #444655;height: 200px">IMAGE- DATA</div>
+    <div class=" post_data col-8" style="border: 2px solid #444655;height: 200px">POST-DATA</div>
+</div>
+<!-- project 3 -->
+<div class="project_card text-center " style=" display:flex;  margin-bottom: 60px;">
+    <div class="images_data col-4" style="border: 2px solid #444655;height: 200px">IMAGE- DATA</div>
+    <div class=" post_data col-8" style="border: 2px solid #444655;height: 200px">POST-DATA</div>
+</div>
+<!-- project 4 -->
+<div class="project_card text-center " style=" display:flex;  margin-bottom: 60px;">
+    <div class="images_data col-4" style="border: 2px solid #444655;height: 200px">IMAGE- DATA</div>
+    <div class=" post_data col-8" style="border: 2px solid #444655;height: 200px">POST-DATA</div>
+</div>
+<!-- project 5 -->
+<div class="project_card text-center " style=" display:flex; margin-bottom: 60px;">
+    <div class="images_data col-4" style="border: 2px solid #444655;height: 200px">IMAGE- DATA</div>
+    <div class=" post_data col-8" style="border: 2px solid #444655;height: 200px">POST-DATA</div>
+</div>
